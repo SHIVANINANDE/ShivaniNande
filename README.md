@@ -46,7 +46,7 @@ TLS • JWT • RBAC • Audit Logging
 ---
 
 ### 🌐 Connect with Me
-- 📧 [shivani.golu.nande.8@gmail.com](mailto:shivani.golu.nande.8@gmail.com)  
+- 📧 [shivani.golu.nande.8@gmail.com](mailto:shivaninandee@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shivaninande/)  
 - 💻 [GitHub](https://github.com/SHIVANINANDE)  
 
