@@ -1,55 +1,96 @@
 # Hi, I'm Shivani Nande 👋  
 
-🚀 Software Engineer | Distributed Systems | Cloud-Native | Performance Engineering  
+🚀 Software Engineer | Backend Systems | Distributed Systems | AI-Driven Platforms  
 
 ---
 
 ### 🔹 What I Do
-I design and build **scalable, fault-tolerant, and high-performance systems**.  
-My focus areas:  
-- **Distributed Systems & Databases** – consensus protocols, caching, compaction, geospatial queries  
-- **Cloud & Infrastructure** – Kubernetes, Docker, AWS, Terraform, CI/CD pipelines  
-- **Backend Engineering** – high-throughput APIs, event-driven systems, microservices  
-- **Frontend & UX** – React, Angular dashboards with real-time WebSocket updates  
-- **Reliability & Security** – observability, monitoring, chaos testing, TLS/JWT/RBAC  
+
+I build **scalable backend systems and intelligent platforms** that handle real-world complexity —  
+from high-throughput APIs to AI-powered automation.
+
+My work sits at the intersection of:
+- **Distributed Systems** → consistency, fault-tolerance, event-driven design  
+- **Backend Engineering** → low-latency APIs, microservices, concurrency  
+- **Cloud-Native Infra** → Kubernetes, CI/CD, observability, reliability  
+- **AI Integration** → LLMs, RAG pipelines, intelligent automation systems  
 
 ---
 
-### 🛠️ Skills Snapshot  
+### 🔹 Engineering Impact
+
+- Designed **microservice architectures** powering high-traffic systems with improved throughput and latency  
+- Built **high-concurrency APIs** with secure access control (JWT, RBAC) and optimized data layers  
+- Developed **LLM-powered systems (RAG)** to automate complex workflows and decision-making  
+- Engineered **natural language → SQL systems** with strong accuracy on large-scale datasets  
+- Reduced system inefficiencies through **caching, query optimization, and better service design**  
+- Improved reliability with **CI/CD pipelines, zero-downtime deployments, and observability systems**  
+
+---
+
+### 🔹 What I’m Good At
+
+- Turning **ambiguous problems into scalable architectures**  
+- Designing systems that balance **performance, consistency, and reliability**  
+- Going deep into **backend + infra + data layers (not just surface-level APIs)**  
+- Building systems that are not just functional, but **production-grade**
+
+---
+
+### 🛠️ Core Stack
 
 **Languages**  
-Go • Java • Python • TypeScript • JavaScript • Bash  
+Go • Java • Python  
 
-**Frameworks**  
-Spring Boot • FastAPI • React • gRPC • Angular  
+**Backend & Systems**  
+Spring Boot • FastAPI • gRPC • REST  
 
-**Databases & Storage**  
-PostgreSQL • Redis • BadgerDB • PostGIS  
+**Distributed & Streaming**  
+Kafka • Redis • Event-driven systems  
+
+**Databases**  
+PostgreSQL • MySQL • Redis  
 
 **Cloud & Infra**  
-Kubernetes • Docker • AWS • Prometheus • Grafana • Terraform  
+AWS • Docker • Kubernetes • Terraform • Jenkins  
 
-**Messaging & Streaming**  
-Kafka • WebSockets • Event-driven Architecture  
-
-**Security**  
-TLS • JWT • RBAC • Audit Logging  
+**Observability**  
+Prometheus • Grafana • OpenTelemetry  
 
 ---
 
-### 🌟 What Sets Me Apart
-- Engineered **high-throughput systems** with sub-millisecond latency  
-- Skilled in **system design, scalability, and fault-tolerance**  
-- Strong mix of **backend depth + infrastructure expertise + UI delivery**  
-- Hands-on with **production-grade observability, automation, and security**  
+### 🔹 Selected Work
+
+- ⚡ **Distributed Key-Value Store**  
+  → Raft-based system with strong consistency and low-latency reads  
+
+- 📍 **Real-time Geospatial Engine**  
+  → Handles high concurrency with optimized spatial indexing  
+
+- 🧠 **LLM-Powered Query & Automation System**  
+  → Converts natural language into structured queries with validation  
+
+- ⏱️ **Distributed Job Scheduler**  
+  → Reliable execution of large-scale workloads with tight latency guarantees  
 
 ---
 
-### 🌐 Connect with Me
-- 📧 [shivani.golu.nande.8@gmail.com](mailto:shivaninandee@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shivaninande/)  
-- 💻 [GitHub](https://github.com/SHIVANINANDE)  
+### 🔹 How I Think
+
+I care about:
+- **Why a system works**, not just how to build it  
+- **Trade-offs** (latency vs consistency vs cost)  
+- **Clean abstractions + long-term maintainability**  
+- Building systems that **scale without breaking**
 
 ---
 
-✨ *“I build reliable systems that scale — from code to cloud.”*
+### 🌐 Connect
+
+- 📧 shivaninandee@gmail.com  
+- 🔗 linkedin.com/in/shivaninande  
+- 💻 github.com/ShivaniNande  
+
+---
+
+✨ *I don’t just write code — I design systems that hold under pressure.*
